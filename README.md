@@ -25,7 +25,6 @@
 
 </div>
 
-
 ## Description
 Ballerine helps any company verify its customers’ identity while providing an amazing user experience by composing verification processes for any vertical and geography using modular building blocks, components, and 3rd party integrations.
 
